@@ -1,1 +1,1 @@
-wushuo894/ani-rss:arm64v8
+ani-rss:arm64-latest
