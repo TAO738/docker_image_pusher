@@ -1,1 +1,1 @@
-ANI-RSS:latest
+ani-rss
