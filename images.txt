@@ -1,2 +1,1 @@
-mysql:8.4.4
-wushuo894/ani-rss:last
+ani-rss:latest
